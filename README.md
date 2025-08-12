@@ -1,1 +1,1 @@
-# HizliBoss Hesap Silme Talebi
+# HızlıBoss Hesap Silme Talebi
