@@ -1,1 +1,1 @@
-# hizliboss-account-deletion
+# HizliBoss Hesap Silme Talebi
